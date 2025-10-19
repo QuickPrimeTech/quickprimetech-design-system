@@ -1,4 +1,4 @@
-# 🍽️ QuickPrimeTech Design System
+# QuickPrimeTech Design System
 
 A **modern, scalable, and consistent design system** built with **Next.js**, **Tailwind CSS**, and **ShadCN UI**, crafted specifically for **restaurant websites**.  
 It provides reusable components, theming, and accessibility-first foundations for building high-quality, performant web experiences for restaurant clients.
